@@ -128,8 +128,8 @@ export const siteConfig = {
     subtitle: "Grab the code and see how it’s built.",
     description:
       "A reusable portfolio template built with Next.js and Tailwind CSS for developers who want a polished personal site without the boilerplate.",
-    repoUrl: "https://github.com/yourusername/portfolio-template",
-    docsUrl: "https://github.com/yourusername/portfolio-template#readme",
+    repoUrl: "https://github.com/rinaxosman/portfolio-template",
+    docsUrl: "https://github.com/rinaxosman/portfolio-template#readme",
     stack: [
       "Next.js (App Router) + React",
       "TypeScript",
